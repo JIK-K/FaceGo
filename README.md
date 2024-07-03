@@ -1,6 +1,5 @@
 # FaceGo
 
-<img width="1199" alt="image" src="https://user-images.githubusercontent.com/86977236/228150043-6016ac6e-1aaf-4bd6-a112-886795d0e41c.png">
 
 ![image](https://github.com/dhkim1206/FaceGo/assets/69470424/8e28a891-5ce0-495c-8e2a-5f217291fff9)
 
